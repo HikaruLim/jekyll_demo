@@ -1,4 +1,4 @@
 baseurl: /jekyll_demo
-pygments: true
+highlighter: true
 safe: true
 auto: true
