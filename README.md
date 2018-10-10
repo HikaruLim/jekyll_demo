@@ -3,9 +3,8 @@
 - this is my first time to setup a site with github pages
 - and i don't know how this works,just followed some articles step by step.
 - and this happened 3 years ago
-- it seems not so hard to setup a site with github pages
-- just see:https://pages.github.com/
-- no branch changing,no other confused things.
+- it seems not so hard to setup a site with github pages when i see https://pages.github.com/ just now
+- no branch changing(like `gh-pages`),no other confused things.
 
 ---
 
